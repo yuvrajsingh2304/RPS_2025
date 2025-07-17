@@ -6,9 +6,9 @@ The reviewed literature covers significant advancements in the development and a
 
 **Auld and Moulder (1999)** provided a foundational theoretical framework for quantitative ECT, introducing forward and inverse problem modeling and exploring how defects like corrosion alter probe impedance. Their discussion of skin effect, reciprocity, and probe field interactions remains critical for advanced PEC and ECT modeling.
 
-**Huang and Wang (2016)** emphasized the distinct advantages of PEC over single-frequency ECT, highlighting the use of pulse excitation with rich frequency content to analyze defects at multiple depths. Their chapter outlined probe design principles, noise suppression strategies, and the use of ferrite cores to enhance sensitivity and minimize lift-off noise.
-
 **Alcantara et al. (2015)** investigated the eddy current response for different rebar corrosion stages and emphasized the influence of coil geometry and frequency on detection depth and signal quality. Their work provides experimental benchmarks for designing modular PEC systems.
+
+**Huang and Wang (2016)** emphasized the distinct advantages of PEC over single-frequency ECT, highlighting the use of pulse excitation with rich frequency content to analyze defects at multiple depths. Their chapter outlined probe design principles, noise suppression strategies, and the use of ferrite cores to enhance sensitivity and minimize lift-off noise.
 
 **Eddy et al. (2019)** demonstrated that PEC decay signal characteristics could be used to estimate rebar cross-sectional loss due to corrosion, even through deep concrete covers (up to 110 mm). The study introduced the concept of using long-time signal decay independent of lift-off to assess corrosion depth.
 
@@ -62,9 +62,9 @@ Certainly! Here's the updated **Patent Search Summary** table with the **name of
 
 1. [Auld, B. A., & Moulder, J. C. (1999). *Review of advances in quantitative eddy current nondestructive evaluation*. Journal of Nondestructive Evaluation, 18(1), 3–36.](1.pdf)
 
-2. [Huang, S., & Wang, S. (2016). *The pulsed eddy current testing*. In S. Huang & S. Wang (Eds.), New technologies in electromagnetic non-destructive testing (pp. 41–80). Springer. https://doi.org/10.1007/978-981-10-0578-7_2](2.pdf)
+2. [Alcantara, N. P., Silva, F. M., Guimarães, M. T., & Pereira, M. D. (2016). *Corrosion assessment of steel bars used in reinforced concrete structures by means of eddy current testing*. Sensors, 15(16), 1-18. https://doi.org/10.3390/s16010015](2.pdf) 
 
-3. [Alcantara, J. R., Silva, R. M., Guimarães, A. S., & Pereira, J. L. (2015). *Corrosion assessment of steel bars used in reinforced concrete structures by means of eddy current testing*. Sensors, 15(7), 16301–16316. https://doi.org/10.3390/s150716301](3.pdf)
+3. [Huang, S., & Wang, S. (2016). *The pulsed eddy current testing*. In S. Huang & S. Wang (Eds.), New technologies in electromagnetic non-destructive testing (pp. 41–80). Springer. https://doi.org/10.1007/978-981-10-0578-7_2](3.pdf)
 
 4. [Eddy, I., Underhill, P. R., Krause, T. W., & Morelli, J. (2019). *Pulsed eddy current response to general corrosion in concrete rebar*. In Proceedings of the 46th Annual Review of Progress in Quantitative Nondestructive Evaluation (QNDE2019-7001).](4.pdf)
 
