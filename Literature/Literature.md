@@ -18,6 +18,8 @@ The reviewed literature covers significant advancements in the development and a
 
 **Thibbotuwa et al. (2024)** introduced resonant EC sensors for corrosion detection through thick concrete covers (up to 5–6 cm). By tracking the parallel resistance (Rp) variation, they effectively quantified corrosion-induced material loss and addressed environmental compensation using temperature sensitivity analysis.
 
+**He, D. (2024)** developed a portable eddy current system for corrosion assessment of rebars using a lock-in amplifier to analyze in-phase and quadrature signals. By examining the X-Y plot slope of the induced signal, different corrosion products were distinguished based on their conductivity and magnetic permeability. The study optimized excitation frequency (~80 kHz), coil types (toroidal vs. differential), and introduced a Helmholtz configuration to reduce noise and improve detection depth. It confirmed that eddy current phase response could accurately reflect corrosion progression.
+
 ---
 
 **Key Findings Across Literature**:
@@ -71,5 +73,7 @@ Certainly! Here's the updated **Patent Search Summary** table with the **name of
 6. [Ha, N., Lee, H.-S., & Lee, S. (2021). *Development of a wireless corrosion detection system for steel-framed structures using pulsed eddy currents*. Sensors, 21(24), Article 8199. https://doi.org/10.3390/s21248199](6.pdf)
 
 7. [Thibbotuwa, U. C., Cortés, A., Casado, A. M., & Irizar, A. (2024). *Resonant eddy current sensor design for corrosion detection of reinforcing steel*. Sensors, 24(13), Article 4211. https://doi.org/10.3390/s24134211](7.pdf)
+
+8. [He, D. (2024). *Detecting the corrosion of a steel rebar using the eddy current testing method*. Standards, 4(4), 286–299. https://doi.org/10.3390/standards4040014](8.pdf)
 
 ---
