@@ -10,7 +10,7 @@ The reviewed literature covers significant advancements in the development and a
 
 **[Huang and Wang (2016)](3.pdf)** emphasized the distinct advantages of PEC over single-frequency ECT, highlighting the use of pulse excitation with rich frequency content to analyze defects at multiple depths. Their chapter outlined probe design principles, noise suppression strategies, and the use of ferrite cores to enhance sensitivity and minimize lift-off noise.
 
-**[Eddy et al.(2019)](4.pdf)** demonstrated that PEC decay signal characteristics could be used to estimate rebar cross-sectional loss due to corrosion, even through deep concrete covers (up to 110 mm). The study introduced the concept of using long-time signal decay independent of lift-off to assess corrosion depth.
+**[Eddy et al. (2019)](4.pdf)** demonstrated that PEC decay signal characteristics could be used to estimate rebar cross-sectional loss due to corrosion, even through deep concrete covers (up to 110 mm). The study introduced the concept of using long-time signal decay independent of lift-off to assess corrosion depth.
 
 **[Mukherjee et al. (2020)](5.pdf)** proposed a low-cost, portable platform using phase-sensitive detection and Anisotropic Magnetoresistive (AMR) sensors for early-stage corrosion detection. Their approach is particularly suited to incipient corrosion monitoring and surface-level degradation diagnostics.
 
