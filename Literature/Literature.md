@@ -29,23 +29,23 @@ The reviewed literature covers significant advancements in the development and a
 * **Environmental factors** (humidity, temperature, resistivity) influence EC readings and must be compensated for.
 * **Low-cost, open-source platforms** (e.g., Arduino-based setups) are increasingly viable.
 * There is **limited indigenous development** in India, indicating a large research and market opportunity.
-  
----
+
+  ---
 
 ### **Patent Landscape for Pulsed Eddy Current (PEC) Applications in RC Corrosion Assessment**
 
 #### **Patent Note**:
 Commercial PEC-based systems (e.g., by Eddyfi, Olympus) are patented, especially for metallic pipelines and tanks. However, **adaptations for embedded rebars in RC structures remain underdeveloped** in the public domain, with **open-source, lab-buildable platforms still emerging**—offering potential for patentable innovations in sensor design, software algorithms, or integrated toolkits.
 
-#### 🔐 Patent Search Summary: Pulsed Eddy Current (PEC) for Corrosion Monitoring
+#### Patent Search Summary: Pulsed Eddy Current (PEC) for Corrosion Monitoring
 
-| Sr. No. | Patent Title & Number                                                                                            | Patent Holder(s) & Year                | Purpose / Scope                                                                   | Relevance to Project                                                             | Related Papers / Articles                                                                                                                                                                 |
-| ------- | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------- | --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1       | **US20080252239A1** – *Eddy current inspection probe for testing through conductive and non-conductive coatings* | Olympus NDT Inc., USA (2008)           | Non-contact PEC probe capable of testing through coatings and concrete covers     | Basis for PEC probe concept with wideband frequency and long-time decay analysis | - **Eddy et al. (2019)** – *Pulsed Eddy Current Response to General Corrosion in Concrete Rebar*  <br> - PEC Thermography: *Pulsed Eddy Current Thermography for Corrosion Characterization* |
-| 2       | **US8299784B2** – *Systems and methods for detecting corrosion under insulation (CUI) using pulsed eddy current* | General Electric (GE), USA (2012)      | PEC for corrosion detection under insulation (CUI); portable field implementation | Conceptually similar for detecting rebars under concrete cover                   | - TUV Rheinland PEC Guide for corrosion under coatings <br> - NACE Conference Proceedings on PEC for buried/covered structures                                                               |
-| 3       | **WO2015128485A1** – *System and method for detecting corrosion using PEC*                                       | University of Waterloo, Canada (2015)  | Low-frequency PEC for corrosion loss estimation; broadband signal design          | Supports signal calibration and hardware logic of lab PEC                        | - **Eddy et al. (2019)** – foundational PEC paper from same group                                                                                                                            |
-| 4       | **EP2722075B1** – *System and method for wireless PEC inspection*                                                | The Welding Institute (TWI), UK (2014) | Wireless-enabled PEC for remote field inspections                                 | Enables lab-to-field scalability using wireless sensing nodes                    | - Eddyfi PECA array technology white paper <br> - NDT.net review articles on wireless PEC trends                                                                                             |
-| 5       | **IN201641007921A** – *System for detection of defects using eddy current with signal-processing algorithm*      | IIT Madras, India (2016)               | Signal processing improvement in ECT using phase-sensitive detection              | Reinforces low-cost diagnostic tool idea with AI-enabled signal separation       | - **Mukherjee et al. (2020)** – *Phase-sensitive AMR-based EC sensing* <br> - **Tamhane et al.** – *PCA on PEC signals for concrete-embedded rebars*                                         |
+| Sr. No. | Patent Title & Number | Patent Holder(s) & Year | Purpose / Scope | Relevance to Project | Related Papers / Articles |
+|--------|------------------------|--------------------------|------------------|----------------------|---------------------------|
+| 1 | **US20080252239A1** – *Eddy current inspection probe...* | Olympus NDT Inc., USA (2008) | Non-contact PEC probe for through-coating inspection | Wideband decay-based probe design inspiration | Eddy et al. (2019); PEC Thermography study |
+| 2 | **US8299784B2** – *Systems and methods for detecting CUI...* | General Electric, USA (2012) | PEC for insulation-covered corrosion detection | Analogous to rebars inside concrete | NACE Conf. Proc.; TUV Rheinland guide |
+| 3 | **WO2015128485A1** – *System for detecting corrosion using PEC* | Univ. of Waterloo, Canada (2015) | Low-frequency broadband PEC signal design | Hardware logic support | Eddy et al. (2019) |
+| 4 | **EP2722075B1** – *Wireless PEC inspection system* | The Welding Institute, UK (2014) | Wireless PEC inspection | Supports app integration and portability | Eddyfi tech paper; NDT.net articles |
+| 5 | **IN201641007921A** – *Phase-sensitive EC with signal algorithm* | IIT Madras, India (2016) | Advanced signal processing using AMR sensors | Relevant to low-cost Indian development | Mukherjee et al. (2020); Tamhane et al. |
 
 ###  Key Observations:
 
