@@ -60,7 +60,7 @@ Commercial PEC-based systems (e.g., by Eddyfi, Olympus) are patented, especially
 
 1. [Auld, B. A., & Moulder, J. C. (1999). *Review of advances in quantitative eddy current nondestructive evaluation*. Journal of Nondestructive Evaluation, 18(1), 3–36.](1.pdf)
 
-2. [Alcantara, N. P., Silva, F. M., Guimarães, M. T., & Pereira, M. D. (2016). *Corrosion assessment of steel bars used in reinforced concrete structures by means of eddy current testing*. Sensors, 15(16), 1-18. https://doi.org/10.3390/s16010015](2.pdf) 
+2. [Alcantara, N. P., Silva, F. M., Guimarães, M. T., & Pereira, M. D. (2015). *Corrosion assessment of steel bars used in reinforced concrete structures by means of eddy current testing*. Sensors, 15(16), 1-18. https://doi.org/10.3390/s16010015](2.pdf) 
 
 3. [Huang, S., & Wang, S. (2016). *The pulsed eddy current testing*. In S. Huang & S. Wang (Eds.), New technologies in electromagnetic non-destructive testing (pp. 41–80). Springer. https://doi.org/10.1007/978-981-10-0578-7_2](3.pdf)
 
